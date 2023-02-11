@@ -548,47 +548,5 @@
     "Prov": " PLAZA COLON (Mar del Plata) ",
     "Solic": " Cap. Fed.",
     "Valor-Cliente-Peajes": " Obelisco "
-  },
-  {
-    "N": "9963289",
-    "F": "12/02/2023",
-    "H": "20:00",
-    "Veh.": " ??",
-    "Chofer": "",
-    "Cliente": " ",
-    "Salida": "Mailcar SRL  - 131CARTEL DE MERCADO LIBRE - LOMAS DE ZAMORA",
-    "Destino": "Bs. As.",
-    "T.V.": " Lomas de Zamora",
-    "Prov": " 20.10hs Colombre 415 (Panadería Las Delicias) - Lomas de Zamora ",
-    "Solic": "Bs. As.",
-    "Valor-Cliente-Peajes": "  Villa Celina"
-  },
-  {
-    "N": "9963416",
-    "F": "12/02/2023",
-    "H": "22:50",
-    "Veh.": " ??",
-    "Chofer": "",
-    "Cliente": " ",
-    "Salida": "Mailcar SRL  - 131CARTEL DE MERCADO LIBRE - LOMAS DE ZAMORA",
-    "Destino": "Bs. As.",
-    "T.V.": " Villa Celina",
-    "Prov": " Centro de distribución Meli: Ramon Castillo 80 (Dársenas Cartel Amarillo Ingreso Personal) ",
-    "Solic": "Bs. As.",
-    "Valor-Cliente-Peajes": "  Lomas de Zamora"
-  },
-  {
-    "N": "9963470",
-    "F": "12/02/2023",
-    "H": "23:40",
-    "Veh.": "42 AB468RI??",
-    "Chofer": "9601 Battilocchi",
-    "Cliente": " Osvaldo Andres",
-    "Salida": "Mailcar SRL  - 131Turimo Luda+54 9 11 6945-6453   +54 9 11 3091-1415",
-    "Destino": "Cap. Fed.",
-    "T.V.": " 23.45hs Grand Brizo Buenos Aires: Cerrito 180 ",
-    "Prov": "Bs. As.",
-    "Solic": "  Aeropuerto Internacional Ministro Pistarini Ezeiza (EZE)",
-    "Valor-Cliente-Peajes": " Aer. de Ezeiza. C/espera y regreso VER NOTAS "
   }
 ]
